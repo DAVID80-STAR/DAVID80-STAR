@@ -1,4 +1,4 @@
-# :hand: Hi, I'm @DAVID80-STAR.
+# :hand: Hi, I'm Raman.
 
 ## :earth_asia: About Me
 I'm Raman kumar, a passionate programmer hailing from the beautiful city of Bihar, India. My journey in the world of programming has been a thrilling adventure, fueled by an insatiable curiosity and an unquenchable thirst for knowledge.
